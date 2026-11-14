@@ -1,0 +1,13 @@
+
+pandas
+numpy
+duckdb
+pyarrow
+geopandas
+shapely
+scipy
+scikit-learn
+plotly
+streamlit
+folium
+streamlit-folium

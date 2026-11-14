@@ -218,3 +218,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ======================================
+# FIRECHRONICLE - Project Specific Rules
+# ======================================
+
+# Large NASA FIRMS datasets
+data/raw/
+data/processed/
+data/harmonized/
+
+# NASA API keys and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Large data formats
+*.parquet
+*.csv
+*.shp
+*.shx
+*.dbf
+*.cpg
+
+# Temporary files
+*.tmp
+.DS_Store

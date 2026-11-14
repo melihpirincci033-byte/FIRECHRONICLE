@@ -187,3 +187,9 @@ Additional scientific references and product documentation will be added during 
 ---
 
 **FIRECHRONICLE — Making long-term satellite fire observations more comparable, interpretable, and accessible.**
+
+### AI-Assisted Development
+
+Generative AI tools were used to support documentation drafting, programming assistance, and technical explanations during development.
+
+The project team is responsible for reviewing the generated material, making methodological decisions, testing the implementation, and validating the scientific results.
